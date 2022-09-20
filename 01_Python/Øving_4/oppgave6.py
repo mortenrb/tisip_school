@@ -1,7 +1,7 @@
 """
 Introduksjon til programmering med Python
-Modul 4 - Løkker - Øving 4
-Oppgave 6
+Modul 4 - Løkker
+Øving 4 - Oppgave 6
 M. Bjørklund
 """
 

@@ -1,14 +1,15 @@
 """
 Introduksjon til programmering med Python
-Modul 2 - Variabler og datatyper - Øving 2
-Oppgave 4
+Modul 2 - Variabler og datatyper
+Øving 2 - Oppgave 2
 M. Bjørklund
 """
 
 """
 Oppgavetekst:
 Lag et program som lagrer et tall i en variabel.
-Skriv ut hva halvparten av tallet er, hva det dobbelte av tallet er, hva det tredobbelte av tallet er, og hva tallet ganget med seg selv er. 
+Skriv ut hva halvparten av tallet er, hva det dobbelte av tallet er, hva det tredobbelte av tallet er,
+og hva tallet ganget med seg selv er.
 """
 
 # Deklarering av variabel

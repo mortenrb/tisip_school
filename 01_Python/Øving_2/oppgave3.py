@@ -1,16 +1,16 @@
 """
 Introduksjon til programmering med Python
-Modul 2 - Variabler og datatyper - Øving 2
-Oppgave 3
+Modul 2 - Variabler og datatyper
+Øving 2 - Oppgave 3
 M. Bjørklund
 """
 
 """
 Oppgavetekst:
-Lag et program som lagrer fornavn og etternavn i to variabler. Deretter skal det vises en beskjed på formen: 
-    “My name is ETTERNAVN, FORNAVN ETTERNAVN”. 
+Lag et program som lagrer fornavn ogetternavn i to variabler. Deretter skal det vises en beskjed på formen:
+    “My name is ETTERNAVN, FORNAVN ETTERNAVN”.
 Med andre ord: Hvis du lagrer James i variabelen fornavn og Bond i etternavn, så skal det vises
-    My name is Bond, James Bond. 
+    My name is Bond, James Bond.
 Hvis du skriver ditt navn, så blir det tilsvarende.
 """
 

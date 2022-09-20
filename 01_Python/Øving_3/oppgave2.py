@@ -1,7 +1,7 @@
 """
 Introduksjon til programmering med Python
-Modul 3 - If-setninger - Øving 3
-Oppgave 2
+Modul 3 - If-setninger
+Øving 3 - Oppgave 2
 M. Bjørklund
 """
 

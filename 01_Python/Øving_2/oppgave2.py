@@ -1,16 +1,16 @@
 """
 Introduksjon til programmering med Python
-Modul 2 - Variabler og datatyper - Øving 2
-Oppgave 2
+Modul 2 - Variabler og datatyper
+Øving 2 - Oppgave 2
 M. Bjørklund
 """
 
 """
 Oppgavetekst:
-Lag en liten kalkulator som fungerer slik: 
-    - Det skal være tre tall som ligger i variablene tall1, tall2 og tall3. 
-    - Summen av tallene skal skrives ut på skjerm, altså i konsollvinduet. 
-    - Gjennomsnittet av tallene skal også skrives ut. 
+Lag en liten kalkulator som fungerer slik:
+    - Det skal være tre tall som ligger i variablene tall1, tall2 og tall3.
+    - Summen av tallene skal skrives ut på skjerm, altså i konsollvinduet.
+    - Gjennomsnittet av tallene skal også skrives ut.
 """
 
 # Deklarering av variablene

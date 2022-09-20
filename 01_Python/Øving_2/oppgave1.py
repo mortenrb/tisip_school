@@ -1,18 +1,18 @@
 """
 Introduksjon til programmering med Python
-Modul 2 - Variabler og datatyper - Øving 2
-Oppgave 1
+Modul 2 - Variabler og datatyper
+Øving 2 - Oppgave 1
 M. Bjørklund
 """
 
 """
 Oppgavetekst:
 Lag et program som gjør følgende ting (det siste kulepunktet kan være småvrient):
-    - Lagrer navnet ditt i en variabel. 
-    - Lagrer alderen din i en variabel 
-    - Viser navnet og alderen på skjerm, altså i konsollvinduet. 
-    - Viser følgende tekst på skjermen: ”Jeg heter Ola Nordmann og er 83 år”, hvis navnet i variabelen er Ola Nordmann og alderen er 83 år.
-      Du skal bruke ditt eget navn og din alder.  
+    - Lagrer navnet ditt i en variabel.
+    - Lagrer alderen din i en variabel
+    - Viser navnet og alderen på skjerm, altså i konsollvinduet.
+    - Viser følgende tekst på skjermen: ”Jeg heter Ola Nordmann og er 83 år”,
+      hvis navnet i variabelen er Ola Nordmann og alderen er 83 år. Du skal bruke ditt eget navn og din alder.
 """
 
 # Deklarering av variablene
