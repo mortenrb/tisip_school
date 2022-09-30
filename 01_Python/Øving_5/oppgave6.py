@@ -26,9 +26,9 @@ for i in range(7):
     
 # Løkke for å finne den dyreste og billigste prisen
 for i in range(len(priser)):
-    if (dyrest == None) or (dyrest < priser[i]):
+    if (dyrest is None) or (dyrest < priser[i]):
         dyrest = priser[i]
-    if (billigst == None) or (billigst > priser[i]):
+    if (billigst is None) or (billigst > priser[i]):
         billigst = priser[i]
 
 # Skriv ut den billigste og dyreste varen i konsoll
