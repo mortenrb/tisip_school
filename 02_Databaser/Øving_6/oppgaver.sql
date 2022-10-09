@@ -42,7 +42,7 @@ FROM forlag
 ORDER BY bok.tittel DESC;
 
 
-# 1.4 Finn forfattere som har gitt ut minst én bok på forlaget Cappelen.
+## 1.4 Finn forfattere som har gitt ut minst én bok på forlaget Cappelen.
 SELECT forfatter.etternavn
 FROM forlag
 	INNER JOIN bok ON bok.forlag_id = forlag.forlag_id
