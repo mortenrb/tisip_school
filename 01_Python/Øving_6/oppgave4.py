@@ -32,7 +32,7 @@ while not personnummer.isnumeric() or len(personnummer) != 11:
 rawFodselsdato = personnummer[:6]
 
 # Formatter fødselsdato som dd.mm.yy fra rawFodselsdato
-regex = r"(\d{2})\.?(\d{2})\.?(\d{2})"
+regex = r"(\d{2})(\d{2})(\d{2})"
 pattern = "\\1.\\2.\\3"
 formatertFodselsdato = re.sub(regex, pattern, rawFodselsdato)
 
