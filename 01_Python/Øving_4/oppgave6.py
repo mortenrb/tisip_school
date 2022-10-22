@@ -21,4 +21,3 @@ while rekkeTeller <= 10:
         kolonneTeller += 1
     print(nyRad)
     rekkeTeller += 1
-    

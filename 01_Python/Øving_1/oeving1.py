@@ -13,4 +13,3 @@ Du kan i utgangspunktet bruke æøå, men det kan være lurt å unngå særnorsk
 """
 
 print("Hello world, jeg er i gang")
-
