@@ -10,12 +10,15 @@ Oppgavetekst:
 Lag kode som skriver ut gangetabellen (multiplikasjonstabellen) ved hjelp av to while-løkker nøstet i hverandre.
 """
 
-multiplikator1 = 1
-multiplikator2 = 1
+rekkeTeller = 1
 
-while multiplikator1 <= 10:
-    while multiplikator2 <= 10:
-        print("{} * {} = {}".format(multiplikator1, multiplikator2, multiplikator1 * multiplikator2))
-        multiplikator2 += 1
-    multiplikator1 += 1
-    multiplikator2 = 1
+while rekkeTeller <= 10:
+    nyRad = ""
+    kolonneTeller = 1
+    while kolonneTeller <= 10:
+        produkt = rekkeTeller * kolonneTeller
+        nyRad += "{}\t".format(produkt)
+        kolonneTeller += 1
+    print(nyRad)
+    rekkeTeller += 1
+    
