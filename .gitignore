@@ -130,3 +130,7 @@ dmypy.json
 
 # Project Specific stuff
 .vscode/
+
+# Filer som ikke trenger å være på github
+01_Python/Øving_8/adressebok.txt
+01_Python/testmappe/
